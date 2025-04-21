@@ -2,6 +2,8 @@
 
 A simple and responsive movie browser built with React and Vite. This app allows users to browse popular movies, search for specific titles, and save their favorite movies locally using browser storage.
 
+🌐 **Live Demo:** [react-movie-app-two-ecru.vercel.app](https://react-movie-app-two-ecru.vercel.app)
+
 ---
 
 ## 🚀 Features
