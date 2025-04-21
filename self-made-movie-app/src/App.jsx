@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import { MovieCard } from './components/MovieCard'
 import { NavBar } from './components/NavBar'
 import { Route, Routes } from 'react-router-dom'
 import {Home} from "./pages/Home"

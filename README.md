@@ -29,8 +29,8 @@ A simple and responsive movie browser built with React and Vite. This app allows
 
 1. **Clone the repository:**
 ```bash
-https://github.com/your-username/movie-app.git
-cd movie-app
+https://github.com/umerkhayyam91/react-movie-app.git
+cd react-movie-app
 ```
 
 2. **Install dependencies:**
@@ -57,10 +57,16 @@ http://localhost:5173
 ├── src
 │   ├── components
 │   │   └── MovieCard.jsx
+│   │   └── NavBar.jsx
 │   ├── contexts
 │   │   └── MovieContext.jsx
 │   ├── css
+│   │   └── App.css
+│   │   └── Favorites.css
+│   │   └── Home.css
 │   │   └── index.css
+│   │   └── MovieCard.css
+│   │   └── Navbar.css
 │   ├── pages
 │   │   ├── Home.jsx
 │   │   └── Favorites.jsx
